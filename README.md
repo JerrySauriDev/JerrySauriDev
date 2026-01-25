@@ -1,7 +1,3 @@
- <b><h1 align="center">
-  <img src="Spider-Man-Hello.gif" width="70"/>
-    </   Welcome  > 
-  <img src="Telaraña.gif" width="70"/></h1></b>
 
 ![Banner de Jerry](./banner-github_jerry.png)
 
