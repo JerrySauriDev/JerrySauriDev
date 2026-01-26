@@ -26,7 +26,7 @@ I currently work in:
 ---
 
 ## 🛠️ Technologies
-![Python](https://www.python.org/static/community_logos/python-logo-inkscape.svg)
+![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
