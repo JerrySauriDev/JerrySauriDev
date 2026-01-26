@@ -32,7 +32,7 @@ I currently work in:
 ![Visual](visualstudio-icon.svg)
 ![Blender](blender-icon.svg)
 ![Git](git-icon.svg)
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" title="Python"/></a>
 
 ---
 
