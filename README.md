@@ -6,7 +6,7 @@ My focus is on developing analytical thinking, Python-driven solutions, and data
 
 Curious by nature, and driven by growth — I believe data is not just numbers, but **stories waiting to be told**.
 
----
+<img src="line-yellow.jpeg" width="100%">
 
 ## 🧠 What I do
 - 📊 Data analysis & visualization  
@@ -14,7 +14,7 @@ Curious by nature, and driven by growth — I believe data is not just numbers, 
 - 🧩 Business-oriented academic projects  
 - 🏗️ Building strong foundations in data engineering  
 
----
+<img src="line-yellow.jpeg" width="100%">
 
 ## 💼 Experience
 Before getting into technology, I worked as a warehouse assistant and in production, where I developed:
@@ -24,7 +24,7 @@ Before getting into technology, I worked as a warehouse assistant and in product
 
 Today, I translate that operational experience into **data-driven problem solving**.
 
----
+<img src="line-yellow.jpeg" width="100%">
 
 ## 🧠 Featured Projects
 ### 🔹 Rainwater Harvesting System  
@@ -36,7 +36,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 > *Designing systems where every drop — and every data point — counts.*
 
----
+<img src="line-yellow.jpeg" width="100%">
 
 ## 🛠️ Technologies
 
@@ -51,12 +51,12 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 > *Currently deepening my knowledge in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling for data viz.*
 
----
+<img src="line-yellow.jpeg" width="100%">
 
-## 📊 GitHub Analytics
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&theme=radical)
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&border_color=ffd700&hide_border=true)
 
----
+<img src="line-yellow.jpeg" width="100%">
 
 ## 📫 Let’s connect
 
@@ -66,7 +66,7 @@ Today, I translate that operational experience into **data-driven problem solvin
   </a>
 </p>
 
----
+<img src="line-yellow.png" width="100%">
 
 <p align="center">
   <i>“Data is the compass. Curiosity is the engine. Growth is the destination.”</i>
