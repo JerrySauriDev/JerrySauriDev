@@ -1,4 +1,7 @@
 # ![Banner de Jerry](./banner-github_jerry.gif)
+<a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30" />
+</a>
 
 ## 🚀 About Me
 I am a student of **Data Science for Business** dedicated to transforming raw data into strategic assets. I am currently expanding my knowledge of the Python ecosystem and building solid foundations in data architecture to drive innovation and efficiency.
@@ -37,8 +40,3 @@ I currently work in:
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&theme=radical)
 
 ---
-
-## 📫 Connect with me
-<a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/>
-</a>
