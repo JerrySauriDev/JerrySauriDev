@@ -26,10 +26,10 @@ I currently work in:
 ---
 
 ## 🛠️ Technologies
-- Python
-- Git & GitHub
-- Programming logic
-- Discrete mathematics (basic)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<br/>
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
