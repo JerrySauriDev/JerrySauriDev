@@ -30,11 +30,11 @@ I currently work in:
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Blender](https://www.vectorlogo.zone/logos/blender/blender-ar21.svg)
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python" width="36" height="36" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svgg" alt="Git" título="Git"/></a>
-<a href="https://code.visualstudio.com/" objetivo="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" título="VS Código" ancho="36" altura="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" alt="Blender" título="Blender" width="36" altura="36" /></a>
+<a href="https://code.visualstudio.com/" objetivo="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" título="VS Código"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" title="MySQL"/></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" alt="Blender" título="Blender"/></a>
 ---
 
 ## 📫 Contact
