@@ -1,7 +1,7 @@
 # ![Banner de Jerry](./banner-github_jerry.gif)
 
 ## 🚀 About Me
-I am a **Business Data Science** student dedicated to transforming raw data into strategic assets. My focus lies at the intersection of mathematical rigor and business intuition. Currently, I am scaling my proficiency in the Python ecosystem and building robust foundations in data architecture to drive innovation and efficiency.
+I am a **Data Science for Business** student dedicated to transforming raw data into strategic assets. Currently, I am scaling my proficiency in the Python ecosystem and building robust foundations in data architecture to drive innovation and efficiency.
 
 ---
 
@@ -29,7 +29,7 @@ I am a **Business Data Science** student dedicated to transforming raw data into
 ---
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&theme=radical)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&theme=radical)
 
 ---
 
