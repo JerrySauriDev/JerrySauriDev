@@ -27,13 +27,10 @@ I currently work in:
 
 ## 🛠️ Technologies
 <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></a>
-<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"></a>
 <a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a>
-
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></a>
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg"></a>
+<a href="https://www.python.org/"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg"></a>
 
 ---
 
