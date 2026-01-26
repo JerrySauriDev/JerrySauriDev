@@ -1,4 +1,5 @@
-# ![Banner de Jerry](./banner-github_jerry.gif)
+##
+## ![Banner de Jerry](./banner-github_jerry.gif)
 
 ## 🚀 About Me
 I am a **Data Science for Business student** building the bridge between raw data and strategic insight.  
