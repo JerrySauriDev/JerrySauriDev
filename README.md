@@ -35,4 +35,4 @@ I currently work in:
 ---
 
 ## 📫 Contact
-<a href="https://www.linkedin.com/in/javier-x-391173324/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg"></a>
+<a href="https://www.linkedin.com/in/javier-x-391173324/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"></a>
