@@ -29,7 +29,7 @@ I currently work in:
 ![Python](https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![Blender](https://www.vectorlogo.zone/logos/blender/blender-ar21.svg)
+![Blender](https://www.vectorlogo.zone/logos/blender/blender-ar21~bgwhite.svg)
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python"/></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svgg" alt="Git" título="Git"/></a>
 <a href="https://code.visualstudio.com/" objetivo="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" título="VS Código"/></a>
