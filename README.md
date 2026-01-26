@@ -26,25 +26,13 @@ I currently work in:
 ---
 
 ## 🛠️ Technologies
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
-</a>
-<a href="https://git-scm.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
-</a>
-<a href="https://www.blender.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/>
-</a>
-<a href="https://www.gimp.org/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/>
-</a>
+<a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a>
+<a href="https://www.blender.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="blender" width="40" height="40"/></a>
+<a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="gimp" width="40" height="40"/></a>
 
 ---
 
 ## 📫 Contact
-<a href="https://www.linkedin.com/in/javier-x-391173324/"target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gimp" width="40" height="40"/>
-</a>
+<a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="gimp" width="40" height="40"/></a>
