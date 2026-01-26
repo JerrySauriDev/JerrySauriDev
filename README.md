@@ -1,7 +1,11 @@
 # ![Banner de Jerry](./banner-github_jerry.gif)
-<a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
-  <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="30" height="30" />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="40" height="40"/>
+  </a>
+</p>
+
+---
 
 ## 🚀 About Me
 I am a student of **Data Science for Business** dedicated to transforming raw data into strategic assets. I am currently expanding my knowledge of the Python ecosystem and building solid foundations in data architecture to drive innovation and efficiency.
