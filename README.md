@@ -66,7 +66,7 @@ Today, I translate that operational experience into **data-driven problem solvin
   </a>
 </p>
 
-<img src="line-yellow.png" width="100%">
+<img src="line-yellow.jpeg" width="100%">
 
 <p align="center">
   <i>“Data is the compass. Curiosity is the engine. Growth is the destination.”</i>
