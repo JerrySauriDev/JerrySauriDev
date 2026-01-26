@@ -17,10 +17,10 @@ Curious by nature, and driven by growth — I believe data is not just numbers, 
 ---
 
 ## 💼 Experience
-Before diving into tech, I worked as a **warehouse assistant**, where I developed:
-- Operational discipline and process optimization mindset  
-- Team collaboration in high-demand environments  
-- Real-world understanding of logistics and efficiency  
+Before getting into technology, I worked as a warehouse assistant and in production, where I developed:
+- **Operational discipline** and process optimization mindset.  
+- **Team collaboration** in high-demand environments.  
+- **Real-world understanding** of logistics and efficiency.  
 
 Today, I translate that operational experience into **data-driven problem solving**.
 
@@ -30,26 +30,17 @@ Today, I translate that operational experience into **data-driven problem solvin
 ### 🔹 Rainwater Harvesting System  
 **Python-based simulation for sustainable resource optimization**
 
-- **Core:** Volumetric estimation & storage optimization models  
-- **Impact:** Sustainability-focused solution for university infrastructure  
-- **Skills:** Mathematical modeling, logic optimization, predictive analysis  
+- **Core:** Volumetric estimation & storage optimization models.  
+- **Impact:** Sustainability-focused solution for university infrastructure.  
+- **Skills:** Mathematical modeling, logic optimization, predictive analysis.  
 
 > *Designing systems where every drop — and every data point — counts.*
 
 ---
 
-### 🔹 Next Data Solutions  
-**Building future-ready data solutions**
-
-- **Data Analysis & Visualization:** Transforming datasets into actionable dashboards  
-- **Automation:** Streamlining repetitive business workflows through scripting  
-
-
----
-
 ## 🛠️ Technologies
 
-### Learning & Exploring (In Progress)
+### 📚 Learning & Exploring
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
@@ -58,7 +49,8 @@ Today, I translate that operational experience into **data-driven problem solvin
   <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="45" height="45"/></a>
 </p>
 
->*Currently deepening my knowledge of Python libraries, in MySQL data structures, and basic 3D modeling.*
+> *Currently deepening my knowledge in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling for data viz.*
+
 ---
 
 ## 📊 GitHub Analytics
@@ -70,10 +62,12 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <p align="center">
   <a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"/>
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
 
 ---
 
-> *“Data is the compass. Curiosity is the engine. Growth is the destination.”*
+<p align="center">
+  <i>“Data is the compass. Curiosity is the engine. Growth is the destination.”</i>
+</p>
