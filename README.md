@@ -29,7 +29,7 @@ I currently work in:
 ![Python](py-icon.svg)
 ![MySQL](mysql-icon.svg)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-![VSCode](visualstudio-icon)
+![Visual](visualstudio-icon.svg)
 ![Blender](blender-icon.svg)
 ![Git](git-icon.svg)
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python"/></a>
