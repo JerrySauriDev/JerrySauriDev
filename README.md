@@ -31,10 +31,10 @@ I currently work in:
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM-flattened.png" alt="Python" title="Python" width="36" height="36" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" título="Git" ancho="36" altura="36" /></a>
-<a href="https://code.visualstudio.com/" objetivo="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" título="VS Código" ancho="36" altura="36" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src=" https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" alt="Blender" título="Blender" width="36" altura="36" /></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svgg" alt="Git" título="Git" ancho="36" altura="36" /></a>
+<a href="https://code.visualstudio.com/" objetivo="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg" alt="VS Code" título="VS Código" ancho="36" altura="36" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src=" https://www.vectorlogo.zone/logos/blender/blender-ar21.svg" alt="Blender" título="Blender" width="36" altura="36" /></a>
 ---
 
 ## 📫 Contact
