@@ -62,7 +62,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 ## 📫 Let’s connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/javier-x-391173324/" target="_blank">
+  <a href="https://www.linkedin.com/in/jerry-saurio/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
