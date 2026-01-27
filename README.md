@@ -12,8 +12,8 @@ Curious by nature, and driven by growth — I believe data is not just numbers, 
 ## 🧠 What I do
 - 📊 Data analysis & visualization  
 - 🐍 Python programming & automation  
-- 🧩 Business-oriented academic projects  
-- 🏗️ Building strong foundations in data engineering  
+- 🎓 Business-oriented academic projects  
+- ⚙️ Building strong foundations in data engineering  
 
 <img src="line-yellow.jpeg" width="100%">
 
@@ -27,7 +27,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <img src="line-yellow.jpeg" width="100%">
 
-## 🧠 Featured Projects
+## 🚩 Featured Projects
 ### 🔹 Rainwater Harvesting System  
 **Python-based simulation for sustainable resource optimization**
 
@@ -41,7 +41,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 ## 🛠️ Technologies
 
-### 📚 Learning & Exploring
+### Learning & Exploring
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
@@ -59,13 +59,14 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <img src="line-yellow.jpeg" width="100%">
 
-## 📫 Let’s connect
+## 📫 Let’s connect <img src="Telaraña.gif" width="45" height="45" align="right">
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jerry-saurio/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn" width="45" height="45"/>
   </a>
 </p>
+
 
 <img src="line-yellow.jpeg" width="100%">
 
