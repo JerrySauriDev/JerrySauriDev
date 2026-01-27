@@ -57,7 +57,6 @@ Today, I translate that operational experience into **data-driven problem solvin
 ## 📊 GitHub Statistics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JerrySauriDev&show_icons=true&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&border_color=ffd700&hide_border=true" alt="GitHub Stats" />
-  <br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerrySauriDev&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&hide_border=true" alt="Top Langs" />
 </p>
 
