@@ -1,7 +1,7 @@
 ##
 ## ![Banner de Jerry](./banner-github_jerry.gif)
 
-## 🚀 About Me
+## 📝 About Me
 I am a **Data Science for Business student** building the bridge between raw data and strategic insight.  
 My focus is on developing analytical thinking, Python-driven solutions, and data architectures that help organizations make smarter, faster decisions.
 
@@ -39,7 +39,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <img src="line-yellow.jpeg" width="100%">
 
-## 💻 Technologies
+## 🖥️ Technologies
 
 ### Learning & Exploring
 <p align="left">
@@ -66,24 +66,16 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <p align="center">
   <a href="mailto:jerryoscicon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/jerry-saurio/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/JerrySauriDev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://www.tiktok.com/@jerryxendar" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" />
-  </a>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://x.com/JerrySaurioDev" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
-  </a>
-</p>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://www.tiktok.com/@jerryxendar" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+  </p>
 
 <img src="line-yellow.jpeg" width="100%">
 
