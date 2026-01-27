@@ -9,7 +9,7 @@ Curious by nature, and driven by growth — I believe data is not just numbers, 
 
 <img src="line-yellow.jpeg" width="100%">
 
-## 🧠 What I do
+## 📌 What I do
 - 📊 Data analysis & visualization  
 - 🐍 Python programming & automation  
 - 🎓 Business-oriented academic projects  
