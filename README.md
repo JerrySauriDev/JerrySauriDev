@@ -81,4 +81,5 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 <p align="center">
   <i>“Data is the compass. Curiosity is the engine. Growth is the destination.”</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&secondaryColor=ffd700&height=100&section=footer"/>
 </p>
