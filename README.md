@@ -1,11 +1,15 @@
 ##
 ## ![Banner de Jerry](./banner-github_jerry.gif)
 
-## 📝 About Me
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1200&color=FFD700&center=true&vCenter=true&width=650&lines=With+great+data+come+great+decisions;Your+friendly+neighborhood+Data+Analyst" alt="Typing SVG" />
+</h1>
+
+## 🕷️ About Me
 I am a **Data Science for Business student** building the bridge between raw data and strategic insight.  
 My focus is on developing analytical thinking, Python-driven solutions, and data architectures that help organizations make smarter, faster decisions.
 
-Curious by nature, and driven by growth — I believe data is not just numbers, but **stories waiting to be told**.
+Curious by nature and driven by growth — I believe data is not just numbers, but stories waiting to be revealed.
 
 <img src="line-yellow.jpeg" width="100%">
 
@@ -18,7 +22,7 @@ Curious by nature, and driven by growth — I believe data is not just numbers, 
 <img src="line-yellow.jpeg" width="100%">
 
 ## 💼 Experience
-Before getting into technology, I worked as a warehouse assistant and in production, where I developed:
+Before transitioning into data and technology, I worked as a warehouse assistant and in production, where I developed:
 - **Operational discipline** and process optimization mindset.  
 - **Team collaboration** in high-demand environments.  
 - **Real-world understanding** of logistics and efficiency.  
@@ -29,7 +33,7 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 ## 🚩 Featured Projects
 ### 🔹 Rainwater Harvesting System  
-**Python-based simulation for sustainable resource optimization**
+**Python-based simulation for sustainable water resource optimization**
 
 - **Core:** Volumetric estimation & storage optimization models.  
 - **Impact:** Sustainability-focused solution for university infrastructure.  
@@ -50,7 +54,7 @@ Today, I translate that operational experience into **data-driven problem solvin
   <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="45" height="45"/></a>
 </p>
 
-> *Currently deepening my knowledge in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling for data viz.*
+> *Currently expanding my expertise in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling for data viz.*
 
 <img src="line-yellow.jpeg" width="100%">
 
