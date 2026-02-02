@@ -60,8 +60,8 @@ Today, I translate that operational experience into **data-driven problem solvin
 
 ## 📊 GitHub Statistics
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=JerrySauriDev&show_icons=true&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&border_color=ffd700&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JerrySauriDev&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sable-six-71.vercel.app/api?username=JerrySauriDev&show_icons=true&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&border_color=ffd700&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sable-six-71.vercel.app/api/top-langs/?username=JerrySauriDev&layout=compact&bg_color=000000&title_color=ffd700&text_color=ffffff&icon_color=ff2d2d&hide_border=true" alt="Top Langs" />
 </p>
 
 <img src="line-yellow.jpeg" width="100%">
