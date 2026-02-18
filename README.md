@@ -69,8 +69,8 @@ Today, I translate that operational experience into **data-driven problem solvin
 ## 📫 Let’s connect <img src="Telaraña.gif" width="45" height="45" align="right">
 
 <p align="center">
-  <a href="mailto:jerryoscicon@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:Data_Jerry777@outlook.com">
+    <img src="https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" /></a>
   <a href="https://www.linkedin.com/in/jerry-saurio/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/JerrySauriDev" target="_blank">
