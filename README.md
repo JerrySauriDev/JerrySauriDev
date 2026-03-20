@@ -54,7 +54,7 @@ Today, I translate that operational experience into **data-driven problem solvin
   <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="45" height="45"/></a>
 </p>
 
-> *Currently expanding my expertise in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling for data viz.*
+> *I am currently expanding my experience in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling.*
 
 <img src="line-yellow.jpeg" width="100%">
 
