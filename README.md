@@ -46,13 +46,16 @@ Today, I translate that operational experience into **data-driven problem solvin
 ## 🖥️ Technologies
 
 ### Learning & Exploring
-<p align="left">
-  <a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/></a>
-  <a href="https://www.blender.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="45" height="45"/></a>
-  <a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="45" height="45"/></a>
-</p>
+<table>
+<tr>
+  <td><a href="https://www.python.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="45" height="45"/></a></td>
+  <td><a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="45" height="45"/></a></td>
+  <td><a href="https://www.mysql.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySQL" width="45" height="45"/></a></td>
+  <td><a href="https://developer.mozilla.org/es/" target="_blank"><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML5" width="45" height="45"/></a></td>
+  <td><a href="https://www.blender.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/blender/blender-icon.svg" alt="Blender" width="45" height="45"/></a></td>
+  <td><a href="https://www.gimp.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/gimp/gimp-icon.svg" alt="GIMP" width="45" height="45"/></a></td>
+</tr>
+</table>
 
 > *I am currently expanding my experience in Python libraries (Pandas/NumPy/Matplotlib), MySQL data structures, and basic 3D modeling.*
 
